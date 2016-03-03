@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rerumitalicarums523murauoft_0076.png"; bbox 0 0 2288 3476; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1005 778 1877 853">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 994 778 1877 853">
+     <span class='ocr_line' id='line_1_1' title="bbox 1005 778 1877 853; baseline -0.014 -18.149"><span class='ocrx_word' id='word_1_1' title='bbox 1005 807 1042 830; x_wconf 73' lang='lat'><strong>›·»</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1065 778 1877 853; x_wconf 56' lang='lat' dir='ltr'><strong>⁴&#39;·&#39;ajffoumdedonuneom11d1.mfflmzs</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1122 873 1142 894">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1120 873 1142 906">
+     <span class='ocr_line' id='line_1_2' title="bbox 1122 873 1142 894; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 1122 873 1142 894; x_wconf 52' lang='grc' dir='ltr'>ὑ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 392 0 2288 3048">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 392 0 2288 3048">
+     <span class='ocr_line' id='line_1_3' title="bbox 392 0 2288 3048; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 392 0 2288 3048; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 789 3060 1796 3093">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 789 3060 1796 3093">
+     <span class='ocr_line' id='line_1_4' title="bbox 789 3060 1796 3093; baseline -0.002 -5"><span class='ocrx_word' id='word_1_5' title='bbox 789 3061 898 3088; x_wconf 78' lang='lat' dir='ltr'>Codice</span> <span class='ocrx_word' id='word_1_6' title='bbox 919 3062 1058 3088; x_wconf 77' lang='lat' dir='ltr'>Vaticano</span> <span class='ocrx_word' id='word_1_7' title='bbox 1079 3062 1106 3088; x_wconf 83' lang='lat' dir='ltr'><strong>di</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1129 3061 1291 3093; x_wconf 77' lang='lat' dir='ltr'>Donizone,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1313 3061 1375 3088; x_wconf 86' lang='lat' dir='ltr'><strong>Vat.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1395 3061 1452 3087; x_wconf 78' lang='lat' dir='ltr'>Lat.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1474 3060 1553 3091; x_wconf 85' lang='lat'><strong>4922,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1575 3060 1665 3093; x_wconf 73' lang='lat' dir='ltr'>foglio</span> <span class='ocrx_word' id='word_1_13' title='bbox 1685 3060 1702 3085; x_wconf 83' lang='lat'><strong>4</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1721 3060 1796 3086; x_wconf 79' lang='lat' dir='ltr'><strong><em>recto</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

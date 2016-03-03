@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rerumitalicarums523murauoft_0151.png"; bbox 0 0 2288 3476; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 602 3050 1190 3087">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 602 3050 1190 3087">
+     <span class='ocr_line' id='line_1_1' title="bbox 602 3050 1190 3087; baseline 0.014 -11"><span class='ocrx_word' id='word_1_1' title='bbox 602 3050 712 3078; x_wconf 74' lang='lat' dir='ltr'><strong>Codice</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 733 3052 872 3079; x_wconf 69' lang='lat' dir='ltr'>Vaneano</span> <span class='ocrx_word' id='word_1_3' title='bbox 892 3054 921 3080; x_wconf 83' lang='lat' dir='ltr'><strong>di</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 944 3054 1105 3087; x_wconf 67' lang='lat' dir='ltr'><strong>Donizone,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1127 3056 1190 3084; x_wconf 71' lang='lat' dir='ltr'><strong>vat.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1390 3058 1627 3090">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1390 3058 1627 3090">
+     <span class='ocr_line' id='line_1_2' title="bbox 1390 3058 1627 3090; baseline 0.008 -6"><span class='ocrx_word' id='word_1_6' title='bbox 1390 3058 1479 3090; x_wconf 67' lang='lat' dir='ltr'><strong>foglio</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1498 3060 1534 3085; x_wconf 84' lang='grc'><strong>64</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1553 3063 1627 3088; x_wconf 78' lang='lat' dir='ltr'><em>recto</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 66 0 2288 3476">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 66 0 2288 3476">
+     <span class='ocr_line' id='line_1_3' title="bbox 66 0 2288 3476; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 66 0 2288 3476; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
